@@ -1,6 +1,6 @@
 menu = """
 Para começar, escolha uma das opções a seguir:
-    [1] Estrato
+    [1] Extrato
     [2] Saque
     [3] Depósito
     [0] Sair
@@ -71,5 +71,6 @@ while True:
 
     else:
         break
+
 
 print("Obrigado, até logo")
